@@ -19,7 +19,7 @@ cd Downloads
 Download xos
 
 ```
-wget ....
+wget https://github.com/Siddhu2502/xos-download/raw/main/xos.gz
 ```
 
 ### Step 3
@@ -35,7 +35,7 @@ tar -xvf xoz.gz
 Move the file to home directory so that its uniform for all
 
 ```
-mv myxos-1/ ~/myxos
+cp -r myxos-1/ ~/myxos
 ```
 
 Done :)
