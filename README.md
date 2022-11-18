@@ -27,7 +27,7 @@ wget https://github.com/Siddhu2502/xos-download/raw/main/xos.gz
 unzip it
 
 ```
-tar -xvf xoz.gz
+tar -xvf xos.gz
 ```
 
 ### Step 4
