@@ -38,4 +38,14 @@ Move the file to home directory so that its uniform for all
 cp -r myxos-1/ ~/myxos
 ```
 
+### Step 5
+
+Install flex and bison
+
+```
+sudo apt install flex bison
+```
+
+
+
 Done :)
